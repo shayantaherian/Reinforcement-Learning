@@ -41,4 +41,14 @@ First clone the repository
 `
 git clone https://github.com/shayantaherian/Reinforcement-Learning.git
 `
+Then move to the directory
 
+`
+cd Deep Q-laerning
+`
+
+To run image detection
+
+`
+python yolo_Opencv.py
+`
