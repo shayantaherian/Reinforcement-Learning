@@ -86,4 +86,4 @@ python Test_result.py
 ### References
 1. [DeepQLearning](https://github.com/philtabor/Youtube-Code-Repository/tree/master/ReinforcementLearning/DeepQLearning)
 2. [Deeplizard](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
-3. [Deep Deterministic Policy Gradients Explained](https://towardsdatascience.com/deep-deterministic-policy-gradients-explained-2d94655a9b7b)
+3. [Deep Deterministic Policy Gradients](https://towardsdatascience.com/deep-deterministic-policy-gradients-explained-2d94655a9b7b)
