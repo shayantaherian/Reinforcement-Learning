@@ -33,3 +33,9 @@ Recommend use Anaconda Virtual Environment to manage your packages
 
 ### Deep Q-learning
 The result of the DQN for training the cart pole (`CartPole-v0`) is upleaded here
+
+![Training_result](https://user-images.githubusercontent.com/51369142/85757437-6081e100-b707-11ea-9ac7-d337937dfa99.png)
+
+First clone the repository
+
+
