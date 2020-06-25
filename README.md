@@ -38,18 +38,21 @@ The result of the DQN for training the cart pole (`CartPole-v0`) is upleaded her
 
 First clone the repository
 
-`
+```
 git clone https://github.com/shayantaherian/Reinforcement-Learning.git
-`
+```
 
 Then move to the directory
 
-`
+```
 cd Deep Q-learning
-`
+```
 
-To start training run 
+To start training, run the following command 
 
-`
+```
 python main.py
-`
+```
+
+### Deep Deterministic Policy Gradient (DDPG)
+The result of the DQN for training the pendulum (`Pendulum-v0`) is upleaded here
