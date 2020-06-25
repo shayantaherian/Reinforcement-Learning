@@ -38,4 +38,7 @@ The result of the DQN for training the cart pole (`CartPole-v0`) is upleaded her
 
 First clone the repository
 
+`
+git clone https://github.com/shayantaherian/Reinforcement-Learning.git
+`
 
