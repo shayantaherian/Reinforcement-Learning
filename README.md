@@ -56,3 +56,29 @@ python main.py
 
 ### Deep Deterministic Policy Gradient (DDPG)
 The result of the DQN for training the pendulum (`Pendulum-v0`) is upleaded here
+
+![Training_result](https://user-images.githubusercontent.com/51369142/85760923-31b93a00-b70a-11ea-9eb9-6bc944999475.png)
+
+First clone the repository
+
+```
+git clone https://github.com/shayantaherian/Reinforcement-Learning.git
+```
+
+Then move to the directory
+
+```
+cd DDPG
+```
+
+To start training, run the following command 
+
+```
+python main.py
+```
+
+To test the result for generalization purposes run 
+
+```
+python Test_result.py
+```
