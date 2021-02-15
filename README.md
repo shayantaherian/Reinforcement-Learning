@@ -1,5 +1,5 @@
 # Reinforcement Learning with pytorch
-This repository will implement the classic and state-of-the-art deep reinforcement learning algorithms using pytorch. The goal of this repository is to provide an easy to read pytorch reinforcement learning implementation.
+This repository implements the classic and state-of-the-art deep reinforcement learning algorithms using pytorch. The goal of this repository is to provide an easy to read pytorch reinforcement learning implementation.
 
 ### What is included?
 Currently this respository includes the agents:
