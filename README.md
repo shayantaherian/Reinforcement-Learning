@@ -29,7 +29,7 @@ pip install gym
 please go to official webisite to install it: https://pytorch.org/
 
 Recommend use Anaconda Virtual Environment to manage your packages
-```
+``` 
 
 ### Deep Q-learning
 The result of the DQN for training the cart pole (`CartPole-v0`) is upleaded here
