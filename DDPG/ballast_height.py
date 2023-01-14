@@ -118,6 +118,11 @@ def main():
         label_pc.colors = o3d.utility.Vector3dVector(labels_colors)
         label_pc.points = o3d.utility.Vector3dVector(this_points_points.transpose())
 
+        labels_colors = im[coords_2d[1], coords_2d[0], :]/255
+        label_pc = o3d.geometry.PointCloud()
+        label_pc.colors = o3d.utility.Vector3dVector(labels_colors)
+        label_pc.points = o3d.utility.Vector3dVector(this_points_points.transpose())
+
         o3d.visualization.draw_geometries([label_pc], window_name='This Cloud')
 
 
